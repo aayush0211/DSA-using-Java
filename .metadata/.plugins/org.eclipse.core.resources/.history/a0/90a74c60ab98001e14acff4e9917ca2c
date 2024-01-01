@@ -1,0 +1,5 @@
+package SingularLL;
+
+public class CustomException extends Exception {
+
+}
